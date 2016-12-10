@@ -1,0 +1,20 @@
+{
+    "name": "mikeevstropov/softarray",
+    "type": "library",
+    "description": "Array that does not cause errors when accessing not-existing offset",
+    "keywords": ["array","AccessArray","SoftArray"],
+    "homepage": "https://github.com/mikeevstropov/softarray",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mike Evstropov",
+            "email": "mike.evstropov@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-0": { "Mikeevstropov\\SoftArray\\": "src/" }
+    }
+}
