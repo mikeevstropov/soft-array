@@ -1,5 +1,5 @@
 {
-    "name": "mikeevstropov/softarray",
+    "name": "mikeevstropov/soft-array",
     "type": "library",
     "description": "Array that does not cause errors when accessing not-existing offset",
     "keywords": ["array","AccessArray","SoftArray"],
