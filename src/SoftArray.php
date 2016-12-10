@@ -1,6 +1,6 @@
 <?php
 
-namespace Mikeevstropov;
+namespace Mikeevstropov\SoftArray;
 
 class SoftArray implements \ArrayAccess, \Iterator, \Countable
 {
